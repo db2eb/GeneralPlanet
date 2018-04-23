@@ -1,0 +1,104 @@
+/*Author:David Bang*/
+#ptolemy body {
+	margin: 0;
+}
+
+#ptolemy * {
+	font-size: 1.02em;
+}
+
+#ptolemy .ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+  background-color: #cccccc;
+}
+
+#ptolemy .ui-header .ui-title, .ui-footer .ui-title {
+	margin: 0;
+}
+
+#ptolemy #header {
+	position: relative;
+}
+
+#ptolemy #header #home {
+	position: absolute;
+	left: -2px;
+	top: 3.5px;
+	bottom: 0px;
+}
+
+#ptolemy canvas {
+	position: absolute;
+	margin-right: auto;
+	margin-left: auto;
+	left: 0;
+	right: 0;
+}
+
+#canvas {
+	background-color: black;
+}
+
+#space {
+	visibility: hidden;
+}
+
+#ptolemy #buttondiv {
+	text-align: center;
+	position: relative;
+}
+
+#ptolemy #buttondiv button {
+	margin: 0 2px;
+}
+
+#ptolemy #explanation {
+	position: relative;
+}
+
+#container{
+	width:25%;
+	margin:auto;
+}
+#textN {
+	padding: 2px 2px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: 10%;
+    color:black;
+}
+
+#textt {
+	padding: 2px 2px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: 10%;
+    color:black;
+}
+
+#textv {
+	padding: 2px 2px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: 10%;
+    color:black;
+}
+
+#demo {
+	color:blue;
+	font-size: 20px;
+}
+
+#demo2 {
+	color:blue;
+	font-size: 20px;
+}
+
+#demo3 {
+	color:blue;
+	font-size: 20px;
+}
+
+
