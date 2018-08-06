@@ -1,4 +1,4 @@
-To use this App, just click on the link above or here https://db2eb.github.io/GeneralPlanet/.
+To use this App, just click on the link above or here http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/GeneralPlanet/GeneralPlanet.html
 
 Made with Javascript, HTML, and CSS. For Professor Michael Fowler at UVa. 
 For more Physics Applets check out http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/home.html 
